@@ -1,0 +1,25 @@
+{
+  "name": "dinopoints",
+  "version": "1.0.0",
+  "description": "Fun with Chat Points",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/DinoPoints.git"
+  },
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/DinoPoints/issues"
+  },
+  "homepage": "https://github.com/instafluff/DinoPoints#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "nosql": "^6.1.0",
+    "twitch-js": "^1.2.14"
+  }
+}
